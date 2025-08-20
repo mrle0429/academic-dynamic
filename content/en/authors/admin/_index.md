@@ -66,7 +66,7 @@ awards:
     date: '2024-11-01'
     awarder: CUMCM Committee
     summary: |
-      Awarded the National Second Prize in the 2024 China Undergraduate Mathematical Contest in Modeling, demonstrating excellent mathematical modeling and problem-solving abilities.
+      Awarded the National Second Prize in the 2024 China Undergraduate Mathematical Contest in Modeling.
 ---
 
 Le Liu is a final-year Software Engineering student at Beijing-Dublin International College (BJUT-UCD). His research focuses on recommender systems, especially aspect-based modeling and long- and short-term user interest modeling.
