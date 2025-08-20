@@ -5,18 +5,26 @@
 # Default language
 en:
   languageCode: en-us
+  languageName: English
+  weight: 1
+  title: Le Liu - Software Engineering Student
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+# Chinese language configuration
+zh:
+  languageCode: zh-Hans
+  languageName: 中文
+  weight: 2
+  title: 刘乐 - 软件工程学生
+  contentDir: content/zh
+  params:
+    description: 刘乐的个人简历网站 - 北京工业大学软件工程专业在读学生，专注于推荐系统和后端开发
+  menu:
+    main:
+      - name: 首页
+        url: /
+        weight: 10
+      - name: 博客
+        url: blog/
+        weight: 20

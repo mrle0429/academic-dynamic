@@ -13,9 +13,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo résumé theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'Beijing University of Technology'
+    description: 'Le Liu - Final-year Software Engineering Student at Beijing-Dublin International College. Specializing in recommender systems, backend development, and machine learning.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -35,7 +35,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Le Liu. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
