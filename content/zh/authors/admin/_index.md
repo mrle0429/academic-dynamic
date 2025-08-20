@@ -20,7 +20,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 软件工程专业应届毕业生
+role: 软件工程专业本科生
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -69,4 +69,4 @@ awards:
       在2024年全国大学生数学建模竞赛中获得国家二等奖，展现了优秀的数学建模和问题解决能力。
 ---
 
-刘乐是北京-都柏林国际学院（BJUT-UCD）软件工程专业的应届毕业生。他的研究重点是推荐系统，特别是基于方面的建模以及长短期用户兴趣建模。具有丰富的后端开发经验，熟悉多种编程语言和框架。
+刘乐是北京-都柏林国际学院（BJUT-UCD）软件工程专业的本科生。他的研究兴趣是推荐系统，特别是基于方面的建模以及长短期用户兴趣建模。具有丰富的后端开发经验，熟悉多种编程语言和框架。
