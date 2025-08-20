@@ -63,9 +63,11 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: National Section Prize, China Undergraduate Mathematical Contest in Modeling(CUMCM)
-    date: '2024-11'
-    awarder: CUMCM
+  - title: National Second Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM)
+    date: '2024-11-01'
+    awarder: CUMCM Committee
+    summary: |
+      Awarded the National Second Prize in the 2024 China Undergraduate Mathematical Contest in Modeling, demonstrating excellent mathematical modeling and problem-solving abilities.
 ---
 
 Le Liu is a final-year Software Engineering student at Beijing-Dublin International College (BJUT-UCD). His research focuses on recommender systems, especially aspect-based modeling and long- and short-term user interest modeling.
