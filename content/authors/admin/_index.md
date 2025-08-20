@@ -39,19 +39,20 @@ profiles:
 education:
   - area: BSc Software Engineering
     institution: Beijing-Dublin International College (BJUT-UCD)
-    date_start: 2022-09
-    date_end: Present
-    summary: 
+    date_start: 2022-09-01
+    date_end: ''
+    summary: |
+      Majoring in Software Engineering with a focus on recommender systems, machine learning, and backend development technologies.
 
 work:
-  - position: Backend Software Engineer(Internship)
+  - position: Backend Software Engineer (Internship)
     company_name: Capinfo Company Limited
     company_url: 'https://www.capinfo.com.cn/en/capinfo/index.html#about-con-1'
     company_logo: ''
-    date_start: 2025-07
-    date_end: Present
-    summary: 
-      
+    date_start: 2024-07-01
+    date_end: ''
+    summary: |
+      Involved in backend system development, responsible for API design and implementation, database optimization, and other related work.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

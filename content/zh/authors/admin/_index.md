@@ -39,8 +39,8 @@ profiles:
 education:
   - area: 软件工程学士学位
     institution: 北京-都柏林国际学院 (BJUT-UCD)
-    date_start: 2022-09
-    date_end: 至今
+    date_start: 2022-09-01
+    date_end: ''
     summary: |
       主修软件工程专业，重点学习推荐系统、机器学习和后端开发技术。
 
@@ -49,8 +49,8 @@ work:
     company_name: 首都信息发展股份有限公司
     company_url: 'https://www.capinfo.com.cn/'
     company_logo: ''
-    date_start: 2024-07
-    date_end: 至今
+    date_start: 2024-07-01
+    date_end: ''
     summary: |
       参与后端系统开发，负责API设计与实现，数据库优化等工作。
 
