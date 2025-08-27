@@ -50,3 +50,4 @@ sections:
   #     title: 语言能力
   #     username: admin
 ---
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=EfPdH0FUwHDYhRRshEWusGW0NlID5HkuVGwtjsUFIeI"></script>
