@@ -38,7 +38,7 @@ profiles:
 
 education:
   - area: BSc Software Engineering
-    institution: Beijing-Dublin International College (BJUT-UCD)
+    institution: Beijing University of Technology
     date_start: 2022-09-01
     date_end: ''
     summary: |
@@ -49,7 +49,7 @@ work:
     company_name: Capinfo Company Limited
     company_url: 'https://www.capinfo.com.cn/en/capinfo/index.html#about-con-1'
     company_logo: ''
-    date_start: 2024-07-01
+    date_start: 2025-07-01
     date_end: ''
     summary: |
       Involved in backend system development, responsible for API design and implementation, database optimization, and other related work.
@@ -61,13 +61,7 @@ work:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: National Second Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM)
-    date: '2024-11-01'
-    awarder: CUMCM Committee
-    summary: |
-      Awarded the National Second Prize in the 2024 China Undergraduate Mathematical Contest in Modeling.
+
 ---
 
-Le Liu is a final-year Software Engineering student at Beijing-Dublin International College (BJUT-UCD). His research focuses on recommender systems, especially aspect-based modeling and long- and short-term user interest modeling.
-
+Le Liu is a final-year Software Engineering student at Beijing University Of technology.

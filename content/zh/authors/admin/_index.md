@@ -20,7 +20,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 软件工程专业本科生
+role: 软件工程
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -38,7 +38,7 @@ profiles:
 
 education:
   - area: 软件工程学士学位
-    institution: 北京-都柏林国际学院 (BJUT-UCD)
+    institution: 北京工业大学
     date_start: 2022-09-01
     date_end: ''
     summary: |
@@ -49,11 +49,10 @@ work:
     company_name: 首都信息
     company_url: 'https://www.capinfo.com.cn/'
     company_logo: ''
-    date_start: 2025-07-31
+    date_start: 2025-07-01
     date_end: ''
     summary: |
       参与后端系统开发，负责API设计与实现，数据库优化等工作。
-
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 
@@ -62,11 +61,7 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 全国大学生数学建模竞赛国家二等奖
+  - title: 国家二等奖, 全国大学生数学建模竞赛
     date: '2024-11-01'
-    awarder: 全国大学生数学建模竞赛组委会
-    summary: |
-      暂缓公开...
 ---
 
-刘乐是北京-都柏林国际学院（BJUT-UCD）软件工程专业的本科生。他的研究兴趣是推荐系统，特别是基于方面的建模以及长短期用户兴趣建模。具有丰富的后端开发经验，熟悉多种编程语言和框架。
