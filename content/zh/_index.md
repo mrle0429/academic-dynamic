@@ -29,11 +29,21 @@ sections:
       avatar:
         size: large     # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: rounded  # Options: circle (default), square, rounded
+
+  - block: experience
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: true
+    
   - block: markdown
     content:
       title:  
       text: |
-       <div style="margin-left: 2rem; padding-left: 0.5rem;">
+       <div style="margin-left: 4rem; padding-left: 0.5rem;">
        <h2 style="text-align: left; margin-bottom: 1rem; font-weight: bold; font-size: 0.8em">论文</h2>
 
        <div style="border-left: 4px solid #ff6b35; padding-left: 20px; margin-bottom: 20px; font-size: 0.6em;"> 
@@ -53,38 +63,21 @@ sections:
           text-align: left !important;
         }
 
-
-  - block: experience
-    content:
-      username: admin
-    design:
-      # Hugo date format
-      date_format: '2006年1月'
-      # Education or Experience section first?
-      is_education_first: false
-  # - block: skills
-  #   content:
-  #     title: 技能与爱好
-  #     username: admin
   - block: markdown
     content:
       title: ""
       text: |
-        <div style="margin-left: -16rem; padding-left: 0.5rem;">
-        <h2 style="text-align: left; margin-bottom: 1rem; font-weight: bold; font-size: 0.8em;">Awards</h2>
+        <div style="margin-left: -15rem; padding-left: 0.5rem;">
+        <h2 style="text-align: left; margin-bottom: 1rem; font-weight: bold; font-size: 0.8em;">奖励</h2>
         
         <div style="font-size: 0.6em; line-height: 1.4;">
         
         **国家二等奖, 全国大学生数学建模竞赛**  
-        *November 2024*
+        *十一月 2024*
         
         </div>
         </div>
     design:
       columns: '1'
-  # - block: languages
-  #   content:
-  #     title: 语言能力
-  #     username: admin
 ---
 <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=EfPdH0FUwHDYhRRshEWusGW0NlID5HkuVGwtjsUFIeI"></script>

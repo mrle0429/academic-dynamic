@@ -42,7 +42,8 @@ education:
     date_start: 2022-09-01
     date_end: ''
     summary: |
-      Majoring in Software Engineering with a focus on recommender systems, machine learning, and backend development technologies.
+      Joint degree program with University College Dublin (UCD).
+      
 
 work:
   - position: Backend Software Engineer (Internship)
@@ -50,17 +51,9 @@ work:
     company_url: 'https://www.capinfo.com.cn/en/capinfo/index.html#about-con-1'
     company_logo: ''
     date_start: 2025-07-01
-    date_end: ''
+    date_end: '2025-10-01'
     summary: |
       Involved in backend system development, responsible for API design and implementation, database optimization, and other related work.
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
 ---
 
