@@ -51,7 +51,7 @@ work:
     company_url: 'https://zkh.global/'
     company_logo: ''
     date_start: 2025-11-03
-    date_end: 'present'
+    date_end: ''
 
   - position: Backend Software Engineer (Internship)
     company_name: Capinfo Company Limited

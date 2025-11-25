@@ -50,7 +50,7 @@ work:
     company_url: 'https://www.zkh.com/help/about-us.html'
     company_logo: ''
     date_start: 2025-11-03
-    date_end: 'present'
+    date_end: ''
     
   - position: 后端软件工程师（实习）
     company_name: 首都信息
@@ -62,4 +62,3 @@ work:
       参与后端系统开发，负责API设计与实现，数据库优化等工作。
 
 ---
-
