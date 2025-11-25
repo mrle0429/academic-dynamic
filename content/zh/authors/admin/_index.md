@@ -45,6 +45,13 @@ education:
       University College Dublin 双学位学士
 
 work:
+  - position: 算法工程团队（实习）
+    company_name: 震坤行
+    company_url: 'https://www.zkh.com/help/about-us.html'
+    company_logo: ''
+    date_start: 2025-11-03
+    date_end: 'present'
+    
   - position: 后端软件工程师（实习）
     company_name: 首都信息
     company_url: 'https://www.capinfo.com.cn/'

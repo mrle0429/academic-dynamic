@@ -46,6 +46,13 @@ education:
       
 
 work:
+  - position: Algorithm Enginnering Team (Internship)
+    company_name: ZKH
+    company_url: 'https://zkh.global/'
+    company_logo: ''
+    date_start: 2025-11-03
+    date_end: 'present'
+
   - position: Backend Software Engineer (Internship)
     company_name: Capinfo Company Limited
     company_url: 'https://www.capinfo.com.cn/en/capinfo/index.html#about-con-1'
@@ -57,4 +64,4 @@ work:
 
 ---
 
-Le Liu is a final-year Software Engineering student at Beijing University Of technology.
+Le Liu is a final-year Software Engineering student at Beijing University of technology.
